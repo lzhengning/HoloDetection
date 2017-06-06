@@ -1,0 +1,320 @@
+person
+person
+人
+A person is a being, such as a human, that has certain capacities or attributes constituting personhood, which in turn is defined differently by different authors in different disciplines, and by different cultures in different times and places.
+bicycle
+bicycle
+自行车
+A bicycle, often called a bike or cycle, is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.
+car
+car
+汽车
+A car is a wheeled, self-powered motor vehicle used for transportation and a product of the automotive industry. Most definitions of the term specify that cars are designed to run primarily on roads, to have seating for one to eight people, to typically have four wheels with tyres, and to be constructed principally for the transport of people rather than goods.
+motorbike
+motorbike
+摩托车
+A motorcycle (also called a motorbike, bike, or cycle) is a two- or three-wheeled motor vehicle. Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding. 
+aeroplane
+airplane
+飞机
+An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine or propeller. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. 
+tvmonitor
+computer monitor
+显示器
+A computer monitor or a computer display is an electronic visual display for computers. A monitor usually comprises the display device, circuitry, casing, and power supply. 
+laptop
+laptop
+笔记本电脑
+A laptop, often called a notebook or "notebook computer", is a small, portable personal computer with a "clamshell" form factor, an alphanumeric keyboard on the lower part of the "clamshell" and a thin LCD or LED computer screen on the upper portion, which is opened up to use the computer. 
+bus
+bus
+公交汽车
+A bus (archaically also omnibus, multibus, motorbus, autobus) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers. The most common type of bus is the single-decker rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses; coaches are used for longer-distance services.
+train
+train
+火车
+A train is a form of rail transport consisting of a series of vehicles that usually runs along a rail track to transport cargo or passengers. Motive power is provided by a separate locomotive or individual motors in self-propelled multiple units.
+truck
+truck
+卡车
+The trunk (American English) or boot (British English) of a car is the vehicle's main storage compartment. In South Asia, the trunk is usually called a dicky/dala or slang diggy.
+boat
+boat
+船
+A boat is a watercraft of a large range of sizes designed to float, plane, work or travel on water. Small boats are typically found on inland waterways (e.g., rivers and lakes) or in protected coastal areas. However, boats such as the whaleboat were designed for operation from a ship in an offshore environment. 
+traffic light
+traffic light
+红绿灯
+Traffic lights, also known as traffic signals, traffic lamps, traffic semaphore, signal lights, stop lights, robots (in South Africa), and traffic control signals (in technical parlance), are signalling devices positioned at road intersections, pedestrian crossings, and other locations to control flows of traffic.
+fire hydrant
+fire hydrant
+消防栓
+A fire hydrant, also called fireplug, is a connection point by which firefighters can tap into a water supply. It is a component of active fire protection.
+stop sign
+stop sign
+停止标志
+A stop sign is a traffic sign to notify drivers that they must make sure no cars are coming and slow down before proceeding.
+parking meter
+parking meter
+停车收费码
+A parking meter is a device used to collect money in exchange for the right to park a vehicle in a particular place for a limited amount of time. Parking meters can be used by municipalities as a tool for enforcing their integrated on-street parking policy, usually related to their traffic and mobility management policies, but are also used for revenue.
+bench
+bench
+长凳
+A bench is a long seat on which multiple people may sit at the same time. Benches are typically made of wood, but may also be made of metal, stone, or synthetic materials. Many benches have arm and back rests; some have no back rest and can be sat on from either side.
+bird
+bird
+鸟
+Birds (Aves), a subgroup of reptiles, are the last living examples of dinosaurs. They are a group of endothermic vertebrates, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. 
+cat
+cat
+猫
+The domestic cat (Latin: Felis catus) is a small, typically furry, carnivorous mammal. They are often called house cats when kept as indoor pets or simply cats when there is no need to distinguish them from other felids and felines. Cats are often valued by humans for companionship and for their ability to hunt vermin. 
+dog
+dog
+狗
+The domestic dog (Canis lupus familiaris or Canis familiaris) is a member of genus Canis (canines) that forms part of the wolf-like canids, and is the most widely abundant carnivore. The dog and the extant gray wolf are sister taxa, with modern wolves not closely related to the wolves that were first domesticated.
+horse
+horse
+马
+The horse (Equus ferus caballus) is one of two extant subspecies of Equus ferus. It is an odd-toed ungulate mammal belonging to the taxonomic family Equidae. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, single-toed animal of today. 
+sheep
+sheep
+绵羊
+The sheep (Ovis aries) is a quadrupedal, ruminant mammal typically kept as livestock. Like all ruminants, sheep are members of the order Artiodactyla, the even-toed ungulates. Although the name "sheep" applies to many species in the genus Ovis, in everyday usage it almost always refers to Ovis aries.
+cow
+cattle
+牛
+Cattle—colloquially cows[note 1]—are the most common type of large domesticated ungulates. They are a prominent modern member of the subfamily Bovinae, are the most widespread species of the genus Bos, and are most commonly classified collectively as Bos taurus.
+elephant
+elephant
+大象
+Elephants are large mammals of the family Elephantidae and the order Proboscidea. Three species are recognised, the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus). Elephants are scattered throughout sub-Saharan Africa, South Asia, and Southeast Asia. 
+bear
+bear
+熊
+Bears are carnivoran mammals of the family Ursidae. Bears are classified as caniforms, or doglike carnivorans. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere. 
+zebra
+zebra
+斑马
+Zebras (/ˈzɛbrə/ zeb-rə or /ˈziːbrə/ zee-brə) are several species of African equids (horse family) united by their distinctive black and white striped coats. Their stripes come in different patterns, unique to each individual. They are generally social animals that live in small harems to large herds. 
+giraffe
+giraffe
+长颈鹿
+The giraffe (Giraffa) is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus consists of eleven or more species including Giraffa camelopardalis, the type species. 
+backpack
+backpack
+背包
+A backpack — also called bookbag, kitbag, knapsack, rucksack, pack, or sackpack backsack — is, in its simplest form, a cloth sack carried on one's back and secured with two straps that go over the shoulders, but there can be variations to this basic design. Lightweight types of backpacks are sometimes worn on only one shoulder strap.
+umbrella
+umbrella
+雨伞
+An umbrella or parasol is a folding canopy supported by wooden or metal ribs, which is usually mounted on a wooden, metal, or plastic pole. It is designed to protect a person against rain or sunlight. The word "umbrella" typically refers to a device used for protection from rain. 
+handbag
+handbag
+手提包
+A handbag, also purse or pouch in North American English, is a handled medium-to-large bag that is often fashionably designed, often used by women, to hold personal items.
+tie
+necktie
+领带
+A necktie, or simply tie, is a long piece of cloth worn for decorative purposes around the neck, resting under the shirt collar and knotted at the throat.
+suitcase
+suitcase
+行李箱
+A suitcase is a general term for a distinguishable form of luggage. It is often a somewhat flat, rectangular-shaped bag with rounded/square corners, either metal, hard plastic or made of cloth, vinyl or leather that more or less retains its shape. It has a carrying handle on one side and is used mainly for transporting clothes and other possessions during trips.
+frisbee
+frisbee
+飞盘
+A frisbee (sometimes called a flying disc) is a disc-shaped gliding toy or sporting item that is generally plastic and roughly 20 to 25 centimetres (8 to 10 in) in diameter with a lip, used recreationally and competitively for throwing and catching, for example, in flying disc games.
+skis
+skis
+雪橇
+A ski is a narrow strip of semi-rigid material worn underfoot to glide over snow. Substantially longer than wide and characteristically employed in pairs, skis are attached to ski boots with ski bindings, with either a free, lockable, or partially secured heel. For climbing slopes, ski skins (originally made of seal fur, but now made of synthetic materials) can be attached at the base of the ski.
+snowboard
+snowboard
+滑雪板
+Snowboards are boards that are usually the width of one's foot longways, with the ability to glide on snow. Snowboards are differentiated from monoskis by the stance of the user. In monoskiing, the user stands with feet inline with direction of travel (facing tip of monoski/downhill) (parallel to long axis of board), whereas in snowboarding, users stand with feet transverse (more or less) to the longitude of the board. 
+sports ball
+ball
+球
+A ball is a round object (usually spherical but sometimes ovoid) with various uses. It is used in ball games, where the play of the game follows the state of the ball as it is hit, kicked or thrown by players. Balls can also be used for simpler activities, such as catch, marbles and juggling. 
+kite
+kite
+风筝
+A kite is traditionally a tethered heavier-than-air craft with wing surfaces that react against the air to create lift and drag. A kite consists of wings, tethers, pulleys, and anchors. Kites often have a bridle to guide the face of the kite at the correct angle so the wind can lift it.
+baseball bat
+baseball bat
+棒球棒
+A baseball bat is a smooth wooden or metal club used in the sport of baseball to hit the ball after it is thrown by the pitcher. By regulation it may be no more than 2.75 inches (70 mm) in diameter at the thickest part and no more than 42 inches (1,100 mm) long. 
+baseball glove
+baseball glove
+棒球手套
+A baseball glove or mitt is a large leather glove worn by baseball players of the defending team, which assists players in catching and fielding balls hit by a batter or thrown by a teammate.
+skateboard
+skateboard
+滑板
+A skateboard is a type of sports equipment or toy used primarily for the activity of skateboarding. It usually consists of a specially designed maplewood board combined with a polyurethane coating used for making smoother slides and stronger durability. Most skateboards are made with 7 plies of this wood.
+surfboard
+surfboard
+冲浪板
+A surfboard is an elongated platform used in the sport of surfing. Surfboards are relatively light, but are strong enough to support an individual standing on them while riding a Ocean surface wave breaking wave. 
+tennis racket
+tennis racket
+网球拍
+A racket or racquet is a sports implement consisting of a handled frame with an open hoop across which a network of strings or catgut is stretched tightly. It is used for striking a ball or shuttlecock in games such as squash, tennis, racquetball, and badminton. 
+bottle
+bottle
+瓶子
+A bottle is a rigid container with a neck that is narrower than the body and a mouth. By contrast, a jar has a relatively large mouth or opening which may be as wide as the overall container.
+wine glass
+wine glass
+红酒杯
+A wine glass is a type of glass stemware that is used to drink and taste wine. It is generally composed of three parts: the bowl, stem, and foot. Selection of a particular wine glass for a wine style is important, as the glass shape can influence its perception.
+cup
+cup
+杯子
+A cup is a small open container used for drinking and carrying drinks. It may be made of wood, plastic, glass, clay, metal, stone, china or other materials, and may have a stem, handles or other adornments.
+fork
+fork
+叉子
+A fork, in cutlery or kitchenware, is a tool consisting of a handle with several narrow tines on one end. The usually metal utensil is used to lift food to the mouth or to hold ingredients in place while they are being cut by a knife. Food can be lifted either by spearing it on the tines or by holding it on top of the tines, which are often curved slightly.
+knife
+knife
+刀
+A knife (plural knives) is a tool with a cutting edge or blade, hand-held or otherwise, with most having a handle. Some types of knives are used as utensils, including knives used at the dining table (e.g., butter knives and steak knives) and knives used in the kitchen (e.g., paring knife, bread knife, cleaver).
+spoon
+spoon
+勺子
+A spoon is a utensil consisting of a small shallow bowl, oval or round, at the end of a handle. A type of cutlery (sometimes called flatware in the United States), especially as part of a place setting, it is used primarily for serving. Spoons are also used in food preparation to measure, mix, stir and toss ingredients.
+bowl
+bowl
+碗
+A bowl is a round, open-top container used in many cultures to serve hot and cold food. Bowls are also used for drinking, as in the case of caffè latte. Bowls used for storing non-food items range from small bowls used for holding tips at a coffee shop to large bowls used for storing DVDs or CDs.
+banana
+banana
+香蕉
+The banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, in contrast to dessert bananas.
+apple
+apple
+苹果
+The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. 
+sandwich
+sandwich
+三明治
+A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for another food type.
+orange
+orange
+橘子
+The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.
+broccoli
+broccoli
+西兰花
+Broccoli is an edible green plant in the cabbage family whose large flowering head is eaten as a vegetable.
+carrot
+carrot
+胡萝卜
+The carrot (Daucus carota subsp. sativus) is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow cultivars exist. Carrots are a domesticated form of the wild carrot, Daucus carota, native to Europe and southwestern Asia. 
+hot dog
+hot dog
+热狗
+A hot dog (also spelled hotdog), or frankfurter, frank, or wiener, is a cooked sausage, traditionally grilled or steamed and served in a partially sliced bun as a sandwich. Typical garnishes include mustard, ketchup, onions, mayonnaise, relish, coleslaw, cheese, chili, olives, and sauerkraut.
+pizza
+pizza
+比萨
+Pizza is a yeasted flatbread popularly topped with tomato sauce and cheese and baked in an oven. It is commonly topped with a selection of meats, vegetables and condiments. The term was first recorded in the 10th century, in a Latin manuscript from Gaeta in Central Italy.
+donut
+donut
+面包圈
+A doughnut or donut (both: /ˈdoʊnət/ or /ˈdoʊnʌt/; see spelling differences) is a type of fried dough confectionery or dessert food. The doughnut is popular in many countries and prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty outlets.
+cake
+cake
+蛋糕
+Cake is a form of sweet dessert that is typically baked. In its oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies.
+chair
+chair
+椅子
+A chair is a piece of furniture with a raised surface supported by legs, commonly used to seat a single person. Chairs are supported most often by four legs and have a back; however, a chair can have three legs or can have a different shape.
+sofa
+couch
+沙发
+A couch (American English), also known as a sofa, chesterfield or settee (British English) is a piece of furniture for seating three or more people in the form of a bench, with or without armrests, that is partially or entirely upholstered, and often fitted with springs and tailored cushions.
+pottedplant
+Container gardenin
+盆栽
+Container gardening or pot gardening is the practice of growing plants, including edible plants, exclusively in containers instead of planting them in the ground.
+bed
+bed
+床
+A bed is a piece of furniture which is used as a place to sleep or relax. Most modern beds consist of a soft, cushioned mattress on a bed frame, with the mattress resting either on a solid base, often wood slats, or a sprung base.
+diningtable
+table
+桌子
+A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.
+toilet
+toilet
+厕所
+A toilet[n 1] is a sanitation fixture used for the storing or disposal of human urine and feces. In developed countries, different forms of porcelain flush toilets are common: seats are usually used in the West while squat toilets are common in East Asia. 
+mouse
+mouse
+鼠标
+A mouse (plural: mice) is a small rodent characteristically having a pointed snout, small rounded ears, a body-length scaly tail and a high breeding rate. The best known mouse species is the common house mouse (Mus musculus). It is also a popular pet.
+remote
+remote
+遥控器
+In electronics, a remote control is a component of an electronic device used to operate the device wirelessly from a distance. For example, in consumer electronics, a remote control can be used to operate devices such as a television set, DVD player, or other home appliance, from a short distance. 
+keyboard
+keyboard
+键盘
+In computing, a computer keyboard is a typewriter-style device which uses an arrangement of buttons or keys to act as a mechanical lever or electronic switch. Following the decline of punch cards and paper tape, interaction via teleprinter-style keyboards became the main input device for computers.
+cell phone
+cellphone
+手机
+A mobile phone is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area. The radio frequency link establishes a connection to the switching systems of a mobile phone operator, which provides access to the public switched telephone network (PSTN). 
+microwave
+microwave
+微波炉
+A microwave oven (commonly referred to as a microwave) is a kitchen appliance that heats and cooks food by exposing it to microwave radiation in the electromagnetic spectrum. This induces polar molecules in the food to rotate and produce thermal energy in a process known as dielectric heating.
+oven
+oven
+烤箱
+An oven is a thermally insulated chamber used for the heating, baking or drying of a substance, and most commonly used for cooking. Kilns and furnaces are special-purpose ovens, used in pottery and metalworking, respectively.
+toaster
+toaster
+烤面包机
+A toaster, or a toast maker, is an electric small appliance designed to brown sliced bread by exposing it to radiant heat, thus converting it into toast. Toasters can toast multiple types of sliced bread products. 
+sink
+sink
+盥洗池
+A sink—also known by other names including sinker, washbowl, hand basin and wash basin—is a bowl-shaped plumbing fixture used for washing hands, dishwashing, and other purposes. Sinks have taps (faucets) that supply hot and cold water and may include a spray feature to be used for faster rinsing.
+refrigerator
+refrigerator
+冰箱
+A refrigerator is a popular household appliance that consists of a thermally insulated compartment and a heat pump that transfers heat from the inside of the fridge to its external environment so that the inside of the fridge is cooled to a temperature below the ambient temperature of the room. 
+book
+book
+书
+A book is a set of written, printed, illustrated, or blank sheets, made of paper, parchment, or other materials, fastened together to hinge at one side, with text and/or images printed in ink. 
+clock
+clock
+钟
+A clock is an instrument to measure, keep, and indicate time. The word clock is derived (via Dutch, Northern French, and Medieval Latin) from the Celtic words clagan and clocca meaning "bell". A silent instrument missing such a striking mechanism has traditionally been known as a timepiece.
+vase
+vase
+花瓶
+A vase (/ˈvɑːz/, /ˈveɪs/, or /ˈveɪz/) is an open container, today often used to hold cut flowers. It can be made from a number of materials, such as ceramics , glass, non-rusting metals, such as aluminum, brass, bronze or stainless steel. 
+scissors
+scissors
+剪刀
+Scissors are hand-operated shearing tools. They consist of a pair of metal blades pivoted so that the sharpened edges slide against each other when the handles (bows) opposite to the pivot are closed. 
+teddy bear
+teddy bear
+泰迪熊
+A teddy bear is a soft toy in the form of a bear. Developed apparently simultaneously by toymakers Morris Michtom in the U.S. and Richard Steiff in Germany in the early years of the 20th century, and named after President Theodore "Teddy" Roosevelt, the teddy bear became an iconic children's toy, celebrated in story, song, and film.
+hair drier
+hair drier
+吹风机
+A hair dryer, hairdryer or blow dryer is an electromechanical device designed to blow normal or hot air over damp hair to accelerate the evaporation of water particles and dry the hair. Blow dryers allow better control over the shape and style of hair, by accelerating and controlling the formation of temporary hydrogen bonds inside each strand. 
+toothbrush
+toothbrush
+牙刷
+The toothbrush is an oral hygiene instrument used to clean the teeth, gums, and tongue. It consists of a head of tightly clustered bristles mounted on a handle which facilitates the cleaning of hard to reach areas of the mouth.
